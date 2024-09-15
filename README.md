@@ -1,4 +1,6 @@
 # K3NDER-5
+FILES ARE NOT ORGANIZED AND ARE NOT READY TO BE PRINTED.
+
 Complete custom cross gantry project for the Ender 5 platform. (WORK IN PROGRESS)
 Main objective was to use what I had lying around.
 
