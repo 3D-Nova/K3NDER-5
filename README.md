@@ -1,6 +1,8 @@
 # K3NDER-5
 FILES ARE NOW ORGANIZED AND ARE READY TO BE PRINTED (ASA/ABS or better - standard Voron print settings). 
 
+BOM is in work but will be a while. No promise on documentation but will see.
+
 Complete custom cross gantry project for the Ender 5 platform. (WORK IN PROGRESS)
 Main objective was to use what I had lying around.
 
@@ -8,4 +10,5 @@ I will be publishing as I go so ALL parts are subject to change and until Beta r
 
 Some mods use others designs and as of now I do not have permision to publish said designs but can point you in the right direction if asked.
 
-For questions here is my redit: u/Far_Objective_9394
+For questions here is my 
+Discord: https://discord.gg/mdXzNpgd
