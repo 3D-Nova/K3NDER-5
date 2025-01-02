@@ -1,0 +1,18 @@
+Current files are still in beta and subject to change.
+
+
+This project uses modified and stock files from various creators and projects. As so I will include links to stock files for you finding and a brief description if needed.
+  
+  Z-MOD - Original creator is CovertPluto3502s project I got from Printables https://www.printables.com/model/475994-ender-5-triple-z-e5tz-v2
+    I have modified it to use the hardware I had on hand and to use couplers from an ender 3. I would however recommend using all of the original files as the couplers he used
+    are objectively better.
+
+  ELECTRONICS/Enclosure - For the skirt I used the Mercury one.1 electronics skirt with stock feet. I did not have access to din rail mounts so I modified the Mercury one.1
+    din rail mounts to work with 2020 extrusions. This is how I mounted all of my electronics.
+    As for the Electronics themselves I used 1 BTT SKR MINI E3 v3, 1 creality 4.2.7 mainboard, and a BTT PI. All of this is running off of the stock meanwell 350 watt PSU
+    For the CPAP setup I used WS 4070 and used a mount I found on Thangs.com (dont remember which one but its just a prefference thing so look at some and decide which to use)
+
+  X/Y - 4 350mm MGN12H rails and 2 400mm MGN9H rails I purchases them from CNA store on aliexpress.
+  
+  TOOLHEAD - (I would reccomend printing all toolhead parts in as redgit material as you can, I am using PETCF) This toolhead is designed for the Trangle Labs DragonAce hotend 
+    with MZE(Melt Zone Extender). It should work with any hotend of the same length with rapido mounting holes. As for the extruder it is using a Mirrored Sherpa Micro by          ANNEX Engineering https://github.com/Annex-Engineering/Sherpa_Micro-Extruder (Ensure you mirror files in the slicer).
