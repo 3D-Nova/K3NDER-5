@@ -1,5 +1,5 @@
 # K3NDER-5
-FILES ARE NOT ORGANIZED AND ARE NOT READY TO BE PRINTED.
+FILES ARE NOW ORGANIZED AND ARE READY TO BE PRINTED (ASA/ABS or better - standard Voron print settings). 
 
 Complete custom cross gantry project for the Ender 5 platform. (WORK IN PROGRESS)
 Main objective was to use what I had lying around.
